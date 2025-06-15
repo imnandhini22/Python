@@ -1,8 +1,7 @@
-A Python-based game where players guess a randomly selected country based on hints provided.
+A collection of my Python projects, showcasing various applications and skills.
 
-Features:
+Projects Included:
+-  Guess the Country Game
 
-- Random country selection
-- Hint system (e.g., capital city, population, continent)
-- User input validation
-- Score tracking
+Each project has its own directory with relevant code and documentation
+
